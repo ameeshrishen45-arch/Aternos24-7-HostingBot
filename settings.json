@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "StrengthSMP-tgho.aternos.me:48242",
+    "port": 48242,
     "version": "",
     "try-creative": false
   },
